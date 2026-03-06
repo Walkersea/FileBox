@@ -1,5 +1,5 @@
 # 📦 FileBox
-
+https://walkersea.github.io/FileBox/filebox.html<br>
 A fully offline, browser-based file storage app. Upload, preview, and manage files entirely in your browser — no server, no account, no internet required after the first load.
 
 ## Features
